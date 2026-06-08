@@ -1,0 +1,16 @@
+# 데이터 (대용량)
+*.csv
+data/
+# 모델 파일 (대용량)
+*.h5
+*.pkl
+*.pickle
+model/
+# 파이썬
+__pycache__/
+*.pyc
+.venv/
+venv/
+# 환경/기타
+.env
+.ipynb_checkpoints/
